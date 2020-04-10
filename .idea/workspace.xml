@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d84eae89-8a46-4725-beef-1debd5582e1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/components.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/components.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/work.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/works.html" afterDir="false" />
     </list>
@@ -38,9 +40,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jc702\PycharmProjects\portfolio\templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jc702\PycharmProjects\portfolio\static" />
       <recent name="C:\Users\jc702\PycharmProjects\portfolio\" />
@@ -86,9 +92,28 @@
       <option name="presentableId" value="Default" />
       <updated>1586417845221</updated>
     </task>
+    <task id="LOCAL-00001" summary="optimized links">
+      <created>1586504680559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586504680559</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Python_Flask_Portfolio" />
+    </ignored-roots>
+    <MESSAGE value="optimized links" />
+    <option name="LAST_COMMIT_MESSAGE" value="optimized links" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="76" y="0" key="CommitChangelistDialog2" timestamp="1586504676126">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="76" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1586504676126" />
     <state x="621" y="142" key="FileChooserDialogImpl" timestamp="1586424824381">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -109,9 +134,13 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="659" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586424828250" />
-    <state x="550" y="120" key="Vcs.Push.Dialog.v2" timestamp="1586504630061">
+    <state x="229" y="26" key="SettingsEditor" timestamp="1586506134888">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="550" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1586504630061" />
+    <state x="229" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1586506134888" />
+    <state x="550" y="120" key="Vcs.Push.Dialog.v2" timestamp="1586504692758">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="550" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1586504692758" />
   </component>
 </project>
