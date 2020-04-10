@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d84eae89-8a46-4725-beef-1debd5582e1c" name="Default Changelist" comment="" />
+    <list default="true" id="d84eae89-8a46-4725-beef-1debd5582e1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/components.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/work.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/works.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aIKoikTwOUnmGVTy7SqmXNm9h2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +37,8 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -74,21 +89,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="659" height="192" key="GridCell.Tab.0.bottom" timestamp="1586418851493">
+    <state x="621" y="142" key="FileChooserDialogImpl" timestamp="1586424824381">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="659" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586418851493" />
-    <state width="659" height="192" key="GridCell.Tab.0.center" timestamp="1586418851492">
+    <state x="621" y="142" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1586424824380" />
+    <state width="659" height="192" key="GridCell.Tab.0.bottom" timestamp="1586424828252">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="659" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586418851492" />
-    <state width="659" height="192" key="GridCell.Tab.0.left" timestamp="1586418851492">
+    <state width="659" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586424828252" />
+    <state width="659" height="192" key="GridCell.Tab.0.center" timestamp="1586424828250">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="659" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586418851492" />
-    <state width="659" height="192" key="GridCell.Tab.0.right" timestamp="1586418851493">
+    <state width="659" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586424828250" />
+    <state width="659" height="192" key="GridCell.Tab.0.left" timestamp="1586424828250">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="659" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586418851493" />
+    <state width="659" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586424828250" />
+    <state width="659" height="192" key="GridCell.Tab.0.right" timestamp="1586424828250">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="659" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586424828250" />
+    <state x="550" y="120" key="Vcs.Push.Dialog.v2" timestamp="1586504630061">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="550" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1586504630061" />
   </component>
 </project>
