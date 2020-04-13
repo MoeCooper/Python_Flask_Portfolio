@@ -1,3 +1,3 @@
 # Python_Flask_Portfolio
 
-![](static/assets/images/portfolio_pic.png)
+![](static/assets/images/portfolio_pic.PNG)
